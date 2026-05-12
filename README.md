@@ -2,7 +2,7 @@
 # GENERATION OF LEXICAL TOKENS USING LEX/FLEX TOOL
 ## Name: ARUL KUMARAN S A
 ## Register Number: 212224040030
-## Date: 09-05-2026
+## Date: 12-05-2026
 ## AIM:
  To write a lex program to implement lexical analyzer to recognize a few patterns.
 ## ALGORITHM
